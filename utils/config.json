@@ -1,0 +1,12 @@
+{
+	"Email_Send": "",
+	"Email_Receive": "",
+	"Email_Password": "",
+	"url": "rtsp://192.168.1.101:554/user=admin_password=OQppckor_channel=0_stream=1&onvif=0.sdp",
+	"ALERT": false,
+	"Threshold": 10,
+	"Thread": false,
+	"Log": true,
+	"Scheduler": false,
+	"Timer": false
+}
